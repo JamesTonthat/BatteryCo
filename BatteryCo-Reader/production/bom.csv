@@ -1,0 +1,6 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+J1,IDC-Header_2x05_P2.54mm_Vertical,1,Conn_02x05_Counter_Clockwise,
+Q1,SOT-23,1,AO3400A,C20917
+"R1, R11, R13, R3, R5, R7, R9",0805,7,47 (1%), C17714
+"R10, R12, R14, R2, R4, R6, R8",0805,7,47k (1%),C17713
+"U1, U2, U3, U4, U5, U6, U7",OnSemi_CASE100CY,7,QRE1113GR / ITR8307,C81632

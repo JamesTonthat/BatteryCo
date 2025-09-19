@@ -1,0 +1,6 @@
+"Reference","Value","Footprint","Qty","LCSC Part #"
+"J1","Conn_02x05_Counter_Clockwise","Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical","1",""
+"Q1","AO3400A","Package_TO_SOT_SMD:SOT-23","1","C20917"
+"R1,R3,R5,R7,R9,R11,R13","47 (1%)","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","7"," C17714"
+"R2,R4,R6,R8,R10,R12,R14","47k (1%)","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","7","C17713"
+"U1,U2,U3,U4,U5,U6,U7","QRE1113GR / ITR8307","OptoDevice:OnSemi_CASE100CY","7","C81632"
